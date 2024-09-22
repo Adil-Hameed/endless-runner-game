@@ -27,7 +27,7 @@ Download/Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/endless-runner-game.git
+git clone https://github.com/Adil-Hameed/endless-runner-game.git
 Navigate to the folder:
 
 bash
